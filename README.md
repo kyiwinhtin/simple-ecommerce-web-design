@@ -27,9 +27,9 @@ This repository contains the design and development files for a **mobile-respons
 
 ## Screenshots
 
-![Home Page](/ss/1.png)
-![Product Page](/ss/2.png)
-![Review Page](/ss/3.png)
+![Home Page](img/ss/1.png)
+![Product Page](img/ss/2.png)
+![Review Page](img/ss/3.png)
 
 ## Folder Structure
 
